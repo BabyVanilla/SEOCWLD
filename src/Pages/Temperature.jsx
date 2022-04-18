@@ -40,7 +40,7 @@ export function Temperature() {
           }}
         >
           <th>Device ID</th>
-          <th>Temperature value (°c)</th>
+          <th>Temperature value (°F)</th>
           <th>Humidity value</th>
           <th>Reading Time</th>
         </thead>
